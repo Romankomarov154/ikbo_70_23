@@ -1,0 +1,5 @@
+﻿  ConsoleApplication4_8.cpp
+C:\Users\Роуэн\source\repos\ConsoleApplication4_8\ConsoleApplication4_8\ConsoleApplication4_8.cpp(11,24): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Роуэн\source\repos\ConsoleApplication4_8\ConsoleApplication4_8\ConsoleApplication4_8.cpp(11,36): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Роуэн\source\repos\ConsoleApplication4_8\ConsoleApplication4_8\ConsoleApplication4_8.cpp(11,41): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication4_8.vcxproj -> C:\Users\Роуэн\source\repos\ConsoleApplication4_8\x64\Debug\ConsoleApplication4_8.exe
