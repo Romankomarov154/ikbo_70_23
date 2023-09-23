@@ -1,0 +1,4 @@
+﻿  ConsoleApplication4_1.cpp
+C:\Users\Роуэн\source\repos\ConsoleApplication4_1\ConsoleApplication4_1\ConsoleApplication4_1.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Роуэн\source\repos\ConsoleApplication4_1\ConsoleApplication4_1\ConsoleApplication4_1.cpp(16,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication4_1.vcxproj -> C:\Users\Роуэн\source\repos\ConsoleApplication4_1\x64\Debug\ConsoleApplication4_1.exe
