@@ -1,0 +1,6 @@
+﻿  ConsoleApplication4_5.cpp
+C:\Users\Роуэн\source\repos\ConsoleApplication4_5\ConsoleApplication4_5\ConsoleApplication4_5.cpp(20,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Роуэн\source\repos\ConsoleApplication4_5\ConsoleApplication4_5\ConsoleApplication4_5.cpp(20,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\Роуэн\source\repos\ConsoleApplication4_5\ConsoleApplication4_5\ConsoleApplication4_5.cpp(21,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Роуэн\source\repos\ConsoleApplication4_5\ConsoleApplication4_5\ConsoleApplication4_5.cpp(21,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ConsoleApplication4_5.vcxproj -> C:\Users\Роуэн\source\repos\ConsoleApplication4_5\x64\Debug\ConsoleApplication4_5.exe

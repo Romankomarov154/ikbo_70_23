@@ -1,0 +1,5 @@
+﻿  ConsoleApplication4_3.cpp
+C:\Users\Роуэн\source\repos\ConsoleApplication4_3\ConsoleApplication4_3\ConsoleApplication4_3.cpp(7,18): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Роуэн\source\repos\ConsoleApplication4_3\ConsoleApplication4_3\ConsoleApplication4_3.cpp(11,15): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Роуэн\source\repos\ConsoleApplication4_3\ConsoleApplication4_3\ConsoleApplication4_3.cpp(21,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  ConsoleApplication4_3.vcxproj -> C:\Users\Роуэн\source\repos\ConsoleApplication4_3\x64\Debug\ConsoleApplication4_3.exe
