@@ -1,0 +1,7 @@
+﻿  GenAlg.cpp
+C:\Users\Роуэн\source\repos\GenAlg\GenAlg\GenAlg.cpp(14,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Роуэн\source\repos\GenAlg\GenAlg\GenAlg.cpp(26,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Users\Роуэн\source\repos\GenAlg\GenAlg\GenAlg.cpp(91,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Роуэн\source\repos\GenAlg\GenAlg\GenAlg.cpp(92,11): warning C4101: y: неиспользованная локальная переменная
+C:\Users\Роуэн\source\repos\GenAlg\GenAlg\GenAlg.cpp(92,8): warning C4101: x: неиспользованная локальная переменная
+  GenAlg.vcxproj -> C:\Users\Роуэн\source\repos\GenAlg\x64\Debug\GenAlg.exe
